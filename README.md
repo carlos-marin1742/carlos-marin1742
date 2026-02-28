@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Carlos Marin 👋</h1>
 <h3 align="center">Full Stack Developer | AI/ML Engineer | GenAI Specialist</h3>
 
 <p align="center">
