@@ -11,7 +11,6 @@
 ## 🧠 About Me
 
 - 🔭 I specialize in building **end-to-end AI-powered applications** — from RAG pipelines and LLM integrations to full stack deployments
-- 🏥 Currently a **Clinical Research Coordinator** at Houston Methodist Hospital, where I engineer automated data pipelines and risk-monitoring systems for multi-million dollar clinical trials
 - 🎓 **IBM Certified AI Developer** | Flatiron School Data Science Graduate | Full Stack Engineer (Codecademy)
 - 🌱 Always exploring the latest in **Generative AI, LLMs, and intelligent software architecture**
 - 💡 Passionate about applying AI to **healthcare, finance, and real-world impact**
@@ -67,8 +66,8 @@ Built with React and JavaScript with a sequential multi-image pipeline and full 
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/carlos-marin-90482b13b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:carlosmarinjr1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
